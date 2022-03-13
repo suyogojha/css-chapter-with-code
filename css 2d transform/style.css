@@ -1,0 +1,48 @@
+#wrapper{
+	padding: 20px;
+	margin: 20px;
+}
+ a{
+ 	text-decoration: none;
+ 	background-color: red;
+ 	padding: 20px;
+ 	color: yellow;
+ }
+
+ a:hover{
+ 	display: inline-block;
+ 	transform: scale(2,3);
+ }
+
+
+
+
+
+
+
+
+/*
+		
+		used in buttons
+		it won't work if it is inline or inline-block
+
+
+	transform: translate(50px, 50px);
+
+		we have to used this in hover section and must add display:inline-block;
+		with this syntax
+
+	transform: rotate(20deg);
+	transform: scale(2,3);
+	transform: scale x(0.5);
+	transform: scale y(0.5);
+	transform: skew(20deg, 10deg);
+	transform: skew x(20deg);
+	transform: skew y(20deg);
+	transform-origin: 0% 100%;
+
+
+
+
+	
+*/

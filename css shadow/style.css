@@ -1,0 +1,14 @@
+.shadow{
+	font-size: 90px;
+	text-shadow: 5px 10px 15px red;
+}
+
+
+
+
+/*
+	text-shadow: 5px        10px       20px   red;
+				horizantal  vertical   blur   color
+   
+	we can use value in - as well
+*/

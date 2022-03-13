@@ -1,0 +1,39 @@
+#border{
+	border-style: solid;
+	border-width: 3px;
+	border-color: red;
+	border-radius: 10px;
+}
+
+
+
+
+
+
+/*
+
+
+border-style: dotted
+			  dashed
+			  solid
+			  groove
+			  ridge
+			  inset
+			  outset
+			  none
+
+
+border-width: 2px;
+border-color: red;
+border-top-color: red;
+border-top-width: 10px;
+border-top-style: dotted;
+
+border-radius: 10px;
+
+
+border: 10px solid red;
+
+
+
+*/

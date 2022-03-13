@@ -1,0 +1,63 @@
+
+#bg{
+		background-image: url(images/3.jpg);
+		height: 100vh;
+		background-position: center;
+		background-size: cover;
+
+}
+
+p{
+	color: white;
+	padding: 20px;
+	margin: 20px 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+bg{
+	/*background-color: red;*/
+	background-image: url(images/3.jpg);
+	background-repeat: repeat-x; 
+	 	/*	
+	 		reapt-x   
+	 		reapt-y
+	 		no-reapt
+	 		reapt
+	 	*/ 
+	background-position: center;
+	 	/*	
+	 	 	center
+	 	 	5% 10%
+	 	 	left top
+	 	 	right buttom    
+	 	*/	
+	background-size: cover;
+		/*
+			fixed
+			cover
+			contain
+	
+		*/
+	background-attachment: fixed;
+		/*
+			fixed
+		*/
+
+	}
+*/
+
+/*
+body{
+	background-color: yellow;
+}/*

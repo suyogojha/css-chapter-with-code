@@ -1,0 +1,25 @@
+#div1{
+	height: 500px;
+	border: 1px solid red;
+	background-image: radial-gradient(circle,green , red, yellow,blue,orange); 
+}
+
+
+
+
+/*
+
+	linear-gradient(to right, green, blue );
+	linear-gradient(to bottom-right, green, blue );
+	linear-gradient(120deg, green, blue );
+
+	radial-gradient(greem, yellow);
+	radial-gradient (circle,greem, yellow);
+	radial-gradient(green 20%, yellow 30%);
+
+
+
+
+
+
+*/

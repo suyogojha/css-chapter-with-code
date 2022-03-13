@@ -1,0 +1,42 @@
+:root{
+	--primary-color: teal;
+	--btn-color: red;
+	--text-color:purple;
+}
+
+
+
+
+#fun{
+	background-color: var(--primary-color);
+	height: 200px;
+	width: 400px;
+
+}
+
+
+a{
+	padding: 10px 30px;
+	margin: 10px;
+	background-color: var(--btn-color);
+	color: green;
+	text-decoration: none;
+}
+
+
+
+
+
+
+/*
+	:root{
+	--primary-color: teal;
+	--btn-color: red;
+	--text-color:purple;
+}
+
+	to use
+	
+	background-color: var(--btn-color);
+
+*/

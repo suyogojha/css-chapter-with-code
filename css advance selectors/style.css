@@ -1,0 +1,111 @@
+
+/*
+	element selector
+li{
+	color: red;
+}
+*/
+
+
+
+/*
+id selector
+#list2{
+	color: red;
+}
+*/
+
+
+/*
+	class selector
+	.list5{
+	color: red;
+}
+
+*/
+
+
+/*
+	pseudo class
+	a:hover{
+	color: red;
+	}
+
+*/
+
+
+/*
+	pseudo element
+		p::first-line{
+		color: red;
+	}
+
+*/
+
+
+/*
+	attributed selector
+	a[href="https://www.google.com"]{
+	color: red;
+	}
+
+*/
+
+
+
+/*
+	testing 
+	*{
+	color: red;
+	}
+
+*/
+
+
+/*
+	adjestent sibbling
+	div a{
+	color: red;
+	}
+
+*/
+
+
+/*
+	direct child
+	div>a{
+	color: red;
+	}
+
+*/
+
+
+/*
+	just sibbling
+	div + a{
+	color: red;
+	}
+
+*/
+
+/*
+	normal sibbling
+	div ~ a{
+	color: red;
+	}
+
+*/
+
+
+/*
+	and selector
+	h1,p{
+	color: red;
+	}
+
+*/
+
+
+
+
+

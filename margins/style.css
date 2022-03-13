@@ -1,0 +1,36 @@
+body{
+	border: 2px solid red;
+}
+
+.div1{
+	border: 2px solid blue;
+}
+
+#marg{
+	margin: 20px 20px;
+}
+
+
+
+
+
+
+
+
+/*
+	margin-top: 20px;
+	margin-buttom: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+
+
+	px or %
+
+	we can give margin value in - too.
+	
+	margin: 10px -20px;
+	margin: auto;	
+
+
+
+*/

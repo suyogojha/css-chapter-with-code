@@ -1,0 +1,55 @@
+.is{
+	border: 1px solid red;
+	width: 500px;
+	color: blue;
+	text-align: justify;
+	padding: 20px;
+	margin: 20px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+	text-align: left
+				right
+				justify
+
+	direction: rtl (right to left)
+			   ltr (left to right)
+
+	vertical-align: top
+					middle
+					bottom
+
+	text-decoration: underline
+				     overline
+				     none
+				     linethrough
+
+	text-transform: uppercase
+					lowercase
+					capitalization
+
+	line-height: 10px;
+	text-indent: 10px;
+	letter-spacing: 10px;
+	word-spacing: 10px;
+	white-space: normal
+				 pre
+				 nowrap
+	word-wrap: break-word;
+	writing-mode: vertial
+				  vertical -lr
+				  vertical -rl
+
+	text-shadow: 2px 2px;
+
+*/

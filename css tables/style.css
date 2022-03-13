@@ -1,0 +1,43 @@
+table{
+	border: 1px solid red;
+	width: 200px;
+	margin: 100px;
+	border-spacing: 15px;
+}
+
+
+caption{
+		border: 1px solid red;
+
+}
+
+tr{
+		border: 1px solid red;
+
+
+}
+
+th{
+		border: 1px solid red;
+		height: 30px;
+		padding: 20px;
+
+}
+
+
+
+/*
+	border-collapse: separate
+					 collapse
+	border-spacing: 15px;
+	caption-side: bottom
+
+
+
+	to hide empty cell
+
+	empty-cells: hide;
+	table-layout: auto
+				  fixed
+
+*/

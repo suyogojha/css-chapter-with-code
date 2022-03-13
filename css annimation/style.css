@@ -1,0 +1,97 @@
+/*@keyframes changecolor{
+	0% { background-color: pink; }
+	10% { background-color: green; }
+	20% { background-color: red; }
+	30% { background-color: yellow; }
+	40% { background-color: white; }
+	50% { background-color: orange; }
+	60% { background-color: gray; }
+	70% { background-color: purple; }
+	80% { background-color: blue; }
+	90% { background-color: black; }
+	100% { background-color: yellow; }
+}*/
+
+@keyframes changecolor{
+	0% { background-color: pink; }
+	10% { background-color: green; }
+	20% { width: 300px; }
+	30% { background-color: yellow; }
+	40% { background-color: white; }
+	50% { background-color: orange; }
+	60% { border: 6px solid green; }
+	70% { background-color: purple; }
+	80% { background-color: blue; }
+	90% { background-color: black; }
+	100% { width: 300px; }
+}
+
+
+
+
+#animate{
+	background-color: red;
+	margin: 100px;
+	height: 200px;
+	width: 200px;
+	animation-name: changecolor;
+	animation-duration: 10s;
+	animation-iteration-count: infinite;
+}
+
+#animate1{
+	background-color: red;
+	margin: 100px;
+	height: 200px;
+	width: 200px;
+	animation-name: changecolor;
+	animation-duration: 10s;
+		animation-iteration-count: infinite;
+
+}
+
+
+
+
+
+
+
+
+/*
+
+
+			@keyframes changecolor{
+				from { background-color: pink; }
+				to { background-color: yellow; }
+			}
+
+
+			@keyframes changecolor{
+				0% { background-color: pink; }
+				10% { background-color: green; }
+				20% { background-color: red; }
+				30% { background-color: yellow; }
+				40% { background-color: white; }
+				50% { background-color: orange; }
+				60% { background-color: gray; }
+				70% { background-color: purple; }
+				80% { background-color: blue; }
+				90% { background-color: black; }
+				100% { background-color: yellow; }
+			}
+
+
+		and in section
+
+		animation-name: color;
+		animation-duration: 2s;
+		animation-delay: 2s;
+		animation-iteration-count: 3;
+								  infinate;
+
+		animation-direction: reverse
+							 alternate
+							 alternate-reverse
+		animation-timing-function: ease;
+
+*/

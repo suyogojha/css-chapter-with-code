@@ -1,0 +1,22 @@
+#green{
+	color: green;
+}
+#blue{
+	color: blue;
+}
+
+#initial{
+	color: initial;
+}
+
+#inherit{
+	color: inherit;
+}
+
+
+
+/*
+	initial-- default value
+	inherit-- take the value of parents
+
+*/

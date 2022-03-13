@@ -1,0 +1,22 @@
+@media screen{
+	p{
+		font-size: 30px;
+	}
+}
+@media print{
+	p{
+		font-size: 20px;
+	}
+	img{
+		display: none;
+	}
+	div{
+		width: 50%;
+	}
+
+}
+
+img{
+	height: auto;
+	width: 200px;
+}

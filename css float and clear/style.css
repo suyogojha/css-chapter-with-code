@@ -1,0 +1,47 @@
+/*
+
+img{
+	height: auto;
+	width: 200px;
+	float: right;
+
+}
+
+p{
+	border: 1px solid red;
+	overflow: auto;
+}
+
+*/
+
+#content{
+	width: 70%;
+	background-color: green;
+	height: 200px;
+	float: left;
+}
+#sidebar{
+		width: 30%;
+	background-color: yellow;
+	height: 100px;
+	float: left;
+}
+#footer{
+	background-color: blue;
+	clear: both;
+
+}
+
+
+
+/*
+	float: right
+		   left
+
+	overflow: auto; (in container)
+	clear: right
+		   left
+		   both (it helps to use things in position)
+	
+
+*/

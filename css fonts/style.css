@@ -1,0 +1,89 @@
+
+@font-face{
+			font-family: abc; 
+			src: url( fonts/Allura-Regular.ttf);  
+}
+
+
+
+
+h1{
+  font-family: 'Grandstander', cursive;
+}
+
+
+
+p{
+	font-size: 30px;
+	font-family: abc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+	font-size: 10px;
+	font-weight: bold
+				 bolder
+				 lighter
+				 normal
+				 initial
+				 inherit
+				 100-900	
+
+	font-style: inherit
+				initial
+				oblique
+				italic
+				normal
+
+	font-variant: normal
+				  small-caps
+				  initial
+				  inherit
+
+
+   adding fonts from website(by google)
+
+   google: 1. google fonts(search)
+   		   2. select the fonts we need
+   		   3. go to embed
+   		   4. copy the link and paste in head of html
+   		   5. go to css rule and copy the fonts we need
+   		   6. paste that into css font family
+
+   	font-family: arial;
+
+   	adding fonts in website (by downloading)
+
+   		1. search download free fonts from website in google
+   		2. download the fonts and extract
+   		3. copy that into our project
+   		4. to use fonts write code in style top
+				@font-face{
+					font-family: abc; (write any name)
+					src: url(......);  (path of file)
+				}
+
+		5. now write some fontfamily name given as in our style section.
+
+
+
+	we can give more then 2,3 fonts in same font-family
+
+
+
+
+
+*/

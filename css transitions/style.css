@@ -1,0 +1,46 @@
+
+/*#div1{
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	margin: 100px;
+	transition-property: width;
+	transition-duration: 1s;
+}
+
+#div1:hover{
+	width: 200px;
+}
+*/
+
+*#div1{
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	margin: 100px;
+	transition-property: background-color width;
+	transition-duration: 1s;
+}
+
+#div1:hover{
+	background-color: green;
+	width: 200px;
+	border: 5px solid yellow;
+}
+
+
+
+
+
+/*
+   make smooth in transitions
+
+   transition-property: width; (we can add any property)
+   transition-duration: 1s
+   						50ms
+
+   	transition-delay: 200ms;
+   	transition-timing-function: ease
+   								ease-in-out
+
+*/

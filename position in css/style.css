@@ -1,0 +1,68 @@
+
+#parent{
+	border: 1px solid red;
+	padding: 20px;
+	width: 50%;
+}
+
+#one{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	display: inline-block;
+}
+#two{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	display: inline-block;
+	position: absolute;
+			top: 40px;
+		left: 40px;
+}
+#three{
+	width: 100px;
+	height: 100px;
+	background-color: #5FDB23FF;
+		display: inline-block;
+		position: absolute; 
+		top: 50px;
+		left: 50px;
+}
+
+.stickey{
+	position: sticky;
+	background-color: red;
+	color: white;
+	border: 1px solid green;
+	padding: 10px;
+	margin: 20px;
+	top: 0px;
+}
+
+
+
+/*
+	1. static(deafult) - normal flow
+	2. relative - it takes position from its place. it 
+	              occopey its space and
+	              don't give others to come there.
+    3. absolute - it takes position from its 
+    			  nearest parent if not then
+    			  go to body.
+    			 it#38C6B6FF left its occopy space.
+
+
+
+    position: relative
+    		  absolute
+    		  fixed	
+    		  stickey
+
+    we have to spacefy otherwise it won't work
+     top: 50px;
+     bottom: 50px;
+     left: 50px;
+     right: 50px;  		 
+
+*/

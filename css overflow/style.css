@@ -1,0 +1,31 @@
+#overflow{
+	background-color: red;
+	border: 2px solid red;
+	width: 500px;
+	height: 200px;
+	overflow: auto;
+}
+
+
+
+
+
+
+/*
+	when text is more then border
+
+
+	overflow: visible
+			  hidden
+			  scroll
+			  auto
+
+	overflow-x :hidden
+	overflow-y :scroll
+
+	resize: both
+			horizontial
+			vertical 
+
+
+*/

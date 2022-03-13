@@ -1,0 +1,20 @@
+
+
+
+/*
+		em
+		mm
+		in
+		pt (1 inch = 72 pt)
+		px (1 inch= 96 px)
+
+
+		relative unit in css
+
+		1. em-em is relative to the size of direct percent
+		2. rem-rem is only relative to root (html tag) size
+		3. vh  - 1% of view port height
+		4. vw -1% of view port width
+		5. % - relative to parent	
+
+*/

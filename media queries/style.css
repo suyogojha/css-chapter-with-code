@@ -1,0 +1,32 @@
+@media screen and (max-width:760px){
+	#div1{
+		width: 50%;
+	}
+	#div2{
+		width: 50%;
+	}
+}
+/*
+@media screen and (min-width:760px){
+	#div1{
+		width: 50%;
+	}
+	#div2{
+		width: 50%;
+	}
+}
+
+*/
+
+
+#div1{
+	width: 70%;
+	float: left;
+	background-color: green;
+}
+
+#div2{
+	width: 30%;
+	float: left;
+	background-color: yellow;
+}

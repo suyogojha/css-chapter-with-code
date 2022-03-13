@@ -1,0 +1,18 @@
+img{
+	height: 400px;
+	width: 300px;
+	border: 1px solid red;
+	object-fit: contain;
+}
+
+
+
+/*
+	object-fit: contain
+				fill
+				cover
+
+	object-position: top-center
+					 top-right
+	
+*/

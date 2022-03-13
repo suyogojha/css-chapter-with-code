@@ -1,0 +1,17 @@
+div{
+	border: 2px solid green;
+	width: 500px;
+	background-color: orange;
+	margin: 50px;
+	padding: 30px;
+	box-shadow:  10px 10px 5px gray,  10px 10px 0.2px yellow;
+}
+
+
+/*
+	box-shadow:  10px 10px 5px gray;
+
+	for 2 shadow:-  10px 10px 5px gray, 10px 10px 5px gray;
+
+*/
+

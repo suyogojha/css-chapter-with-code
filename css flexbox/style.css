@@ -1,0 +1,72 @@
+.flex-container{
+	background-color: red;
+	display: flex;
+	flex-direction: row wrap;
+	justify-content: center;
+		height: 400px;
+
+}
+.flex-child{
+	background-color: pink;
+	margin: 20px;
+	padding: 20px;
+	width: 100px;
+	text-align: center;
+}
+
+#one{
+	/*order: 3;*/
+	/*flex-grow: 1;*/
+	flex-basis: 200px; 
+	align-self: flex-end;
+}
+#two{
+	/*order: 1;*/
+	/*flex-grow: 3;*/
+align-self: flex-start;
+}
+#three{
+	/*order: 2;*/
+	/*flex-grow: 1;*/
+	align-self: center;
+
+}
+
+
+
+
+/*
+	flex-direction: row
+					column
+					columnreverse
+					row-reverse
+ 	flex-wrap: norap
+ 			   wrap
+ 			   wrap-reverse
+
+ 	flex-flow: row
+ 			   wrap
+ 	justify-content: center
+ 					 flex-start
+ 					 flex-end
+ 					 space-around
+ 					 space-between
+
+ 	align-items: center
+ 				 stretch
+ 				 flex-start
+ 				 flex-end
+
+ 	align-content: stretch
+ 				   space-between
+ 				   space-around
+ 				   flex-start
+
+ 	flex-grow: 2;
+ 	flex-strink: 3;
+ 	flex-basis: 200px;
+ 	align-self: flex-start;
+
+
+
+*/

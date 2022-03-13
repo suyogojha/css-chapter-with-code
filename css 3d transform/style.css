@@ -1,0 +1,24 @@
+#cover{
+	border: 1px solid red;
+	height: 200px;
+	width: 200px;
+	margin: 100px;
+}
+#content{
+	height: 200px;
+	width: 200px;
+	background-color: yellow;
+		transform: perspective(300px) rotate3d(0, 50, 50, 30deg);
+
+
+}	
+
+
+
+
+/*
+	use in div
+
+	transform: perspective(300px) rotate3d(0, 50, 50, 30deg);
+	transform: perspective(300px) rotate3d(0px, 50px, 50px, 30deg);
+*/

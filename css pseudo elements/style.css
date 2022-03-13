@@ -1,0 +1,39 @@
+p::first-letter{
+	font-size: 20px;
+	color: red;
+}
+
+
+::selection{
+	color: red;
+	background-color: yellow;
+}
+
+
+
+
+
+
+/*
+
+p::first-letter{
+	font-size: 20px;
+	color: red;
+}
+
+
+
+
+
+p::first-line{
+	font-size: 20px;
+	color: red;
+}
+
+::selection{
+	color: red;
+	background-color: yellow;
+}
+
+
+*/
